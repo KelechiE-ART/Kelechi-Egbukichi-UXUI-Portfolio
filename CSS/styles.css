@@ -1,0 +1,55 @@
+.inline-block {
+  display: inline-block;
+  vertical-align: top;
+}
+
+.body {
+  background-color: lavender;
+}
+
+.logo {
+  width: 23%;
+  padding: 1%;
+  text-align: center;
+}
+
+.nav {
+  width: 73%;
+  padding: 1%;
+  background-color: lightblue;
+  color: plum;
+}
+
+.img {
+  float: left;
+}
+
+.heroimg {
+  float: right;
+  padding: 25px;
+}
+
+.content {
+  width: 500px;
+  margin: 0 auto;
+  width: 750pc;
+}
+
+.html {
+  background-color: rgb(213, 187, 236);
+}
+
+.p {
+  float: left;
+}
+
+.h1 {
+  display: inline-block
+}
+
+.card {
+  display: inline-block;
+  background-color: grey;
+  height: 200px;
+  width: 150px;
+}
