@@ -78,4 +78,19 @@ body {
   width: 150px;
   margin: 35px;
   align-content: space-between;
+  flex-wrap: wrap;
+}
+
+.Examples {
+  transform: translateY(-40%);
+}
+
+.box {
+  display: flex;
+  float: inline-start; 
+  background-color: grey;
+  height: 300px;
+  width: 300px;
+  transform: translate(150%, -160%);
+  align-content: center;
 }
